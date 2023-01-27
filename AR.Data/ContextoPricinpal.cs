@@ -5,8 +5,7 @@ namespace AR.Data
 {
     public class ContextoPricinpal : DbContext
     {
-        public ContextoPricinpal(DbContextOptions options)
-            : base(options)
+        public ContextoPricinpal(DbContextOptions<ContextoPricinpal> options) : base(options)
         {
 
         }
