@@ -10,7 +10,7 @@
 ![image](https://user-images.githubusercontent.com/95453666/215485073-40eaf43b-1b90-4a34-99ce-c5e102dc9432.png)
 
 
-#Aqui fiz um resquisição e retornou 201
+#Aqui fiz uma requisição e retornou 201
 
 ![image](https://user-images.githubusercontent.com/95453666/215486195-8053866a-9e91-4273-9ff4-59ad9af6def4.png)
 
